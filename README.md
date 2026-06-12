@@ -88,4 +88,18 @@ news_portal.sql
 
 Shivam Jaiswal
 
-GitHub: https://github.com/jaiswalshivam045
+GitHub: https://github.com/jaiswalshivam045# News Portal
+
+A PHP and MySQL based News Portal web application.
+
+🔗 **Live Demo:** https://newsportal045.lovestoblog.com
+
+## Features
+
+* User Registration & Login
+* News Articles
+* User Profiles
+* Bookmarks
+* MySQL Database Integration
+* Responsive Design
+
